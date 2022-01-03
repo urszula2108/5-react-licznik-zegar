@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/5-react-licznik-zegar/static/css/main.68695dac.css",
+    "main.js": "/5-react-licznik-zegar/static/js/main.a6cf8342.js",
+    "static/js/787.9b3bd38b.chunk.js": "/5-react-licznik-zegar/static/js/787.9b3bd38b.chunk.js",
+    "index.html": "/5-react-licznik-zegar/index.html",
+    "main.68695dac.css.map": "/5-react-licznik-zegar/static/css/main.68695dac.css.map",
+    "main.a6cf8342.js.map": "/5-react-licznik-zegar/static/js/main.a6cf8342.js.map",
+    "787.9b3bd38b.chunk.js.map": "/5-react-licznik-zegar/static/js/787.9b3bd38b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68695dac.css",
+    "static/js/main.a6cf8342.js"
+  ]
+}
