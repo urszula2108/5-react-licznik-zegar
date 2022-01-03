@@ -1,0 +1,8 @@
+.counter-display {
+  font-size: 1.2em;
+}
+
+.counter-value {
+  color: silver;
+  text-shadow: 1px 1px white;
+}

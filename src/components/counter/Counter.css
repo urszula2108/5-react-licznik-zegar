@@ -1,0 +1,23 @@
+.counter-container {
+  padding-top: 20px;
+  width: 40vw;
+  height: 40vh;
+  border: 2px double silver;
+  box-shadow: 5px 5px 5px silver;
+  position: relative;
+}
+
+.show-clock {
+  font-size: 15px;
+  font-style: italic;
+}
+
+.show-clock:hover {
+  text-decoration: underline;
+}
+
+.clock-container {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+}
